@@ -50,7 +50,7 @@ class CalculsTest {
 		{
 			fail("Methode multiplier non conforme 100*200=20000 ne fonctionne pas.");			
 		}
-
+ 
 		
 		// Est ce que (2 == 42) ? non donc : test en Erreur
 		assertEquals(c1.multiplier(), 2, "Methode multiplier non conforme 2*1=2 ne fonctionne pas.");
